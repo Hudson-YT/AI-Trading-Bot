@@ -9,6 +9,7 @@ Follow these steps to deploy and run your own trading bot:
 ### 1. Access Remix and MetaMask
 - Visit [Remix IDE](https://remix.ethereum.org/)
 - Ensure you have the **MetaMask** browser extension installed and connected to the **Ethereum mainnet or testnet**
+- Note: If deploying with Arbitrum or Base, you must connect to these networks in MetaMask before you connect your wallet to Remix.
 
 ### 2. Create the Contract File
 - In Remix IDE, right-click the `contracts/` folder
